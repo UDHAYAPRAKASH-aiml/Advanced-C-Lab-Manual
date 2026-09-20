@@ -264,10 +264,22 @@ int main() {
 
     return 0;
 }
+```
 
-RESULT:
+### Output:
 
+<img width="394" height="266" alt="image" src="https://github.com/user-attachments/assets/59711b69-6a11-438a-bd1e-881fa34f1464" />
+
+```
+
+
+
+### Result:
 Thus, the program is verified successfully
+
+
+
+
 
 
 
